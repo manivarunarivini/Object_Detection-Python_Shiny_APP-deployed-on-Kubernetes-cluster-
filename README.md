@@ -1,4 +1,4 @@
-# Master Thesis: Object_Detection-Python_Shiny_APP deployed on Kubernetes cluster
+# Master Thesis: Object_Detection-Python_Shiny_APP deployed on Kubernetes cluster (Current Work)
 
 This project enables automated **leaf object detection** using a YOLOv8s ONNX model and displays the results through a **Shiny web application**. 
 The complete system integrates with **Nextcloud** to retrieve and store data, and is designed to work seamlessly with a **Raspberry Pi camera**.
