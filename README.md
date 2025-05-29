@@ -17,7 +17,7 @@ The complete system integrates with **Nextcloud** to retrieve and store data, an
   Robinia pseudoacacia, Selaginella davidi franch
   ```
 
-* The script `yolov8_nextcloud_predictor_timestampped.py`:
+* The script `yolov8_nextcloud_predictor_timestamped.py`:
   * Downloads new images from Nextcloud and performs object detection
   * Renames each image as `<ClassName>_<YYYYMMDD>_<HHMMSS>.jpg`
   * Uploads the result to the `Predicted_Images` folder on nextcloud
