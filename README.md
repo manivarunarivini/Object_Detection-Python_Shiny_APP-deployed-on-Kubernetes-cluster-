@@ -44,7 +44,8 @@ The complete system integrates with **Nextcloud** to retrieve and store data, an
 * Allows:
   * Refreshing predictions with a button
   * Updating Raspberry Pi camera settings (resolution, measurement interval)
-![Shiny_app image3](https://github.com/user-attachments/assets/ae5cfdeb-7c4b-4e03-af22-610ef13e3c86)
+![Shiny_app image7](https://github.com/user-attachments/assets/1f55b570-7be5-48e9-ba8f-3619b3525dbb)
+
 
 ---
 
