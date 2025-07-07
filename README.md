@@ -1,4 +1,4 @@
-# Master Thesis: Object_Detection-Python_Shiny_App deployed on Kubernetes cluster 
+# Master Thesis: Remote Object Detection system using Raspberry Pi, YOLOv8s, and Python Shiny
 
 This project delivers an automated leaf object detection system combining edge computing, AI inference, and interactive visualization. Images are captured using a Raspberry Pi, processed using a YOLOv8 ONNX model, and visualized through a web-based Python Shiny app. All components are synchronized via a shared Nextcloud folder to ensure seamless data exchange and centralized storage.
 
